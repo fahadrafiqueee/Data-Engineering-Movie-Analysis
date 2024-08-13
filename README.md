@@ -16,12 +16,16 @@
 - **Azure SQL Database:** Managed relational database with SQL Server compatibility
 - **Azure Data Factory:** Data integration service that enables you to create, schedule, and orchestrate ETL and ELT workflows. ADF provides a visually intuitive interface to build data-driven workflows for orchestrating data movement and transforming data at scale
 
-### Resource Manager: -
 ![Resource Manager](https://github.com/fahadrafiqueee/Data-Engineering-Movie-Analysis_Azure-Services/blob/main/images/resource_group.png)
 
-### Pipeline: -
-![Resource Manager](https://github.com/fahadrafiqueee/Data-Engineering-Movie-Analysis_Azure-Services/blob/main/images/adf_pipeline_run.png)
+## Pipeline: -
+![Pipeline](https://github.com/fahadrafiqueee/Data-Engineering-Movie-Analysis_Azure-Services/blob/main/images/adf_pipeline_run.png)
 
 
 
+## AZURE DATABASE Sql Queries: -
+![Azure SQL Query](https://github.com/fahadrafiqueee/Data-Engineering-Movie-Analysis_Azure-Services/blob/main/images/sql_query_run_1.png)
 
+![Resource Manager](https://github.com/fahadrafiqueee/Data-Engineering-Movie-Analysis_Azure-Services/blob/main/images/sql_query_run_2.png)
+
+![Resource Manager](https://github.com/fahadrafiqueee/Data-Engineering-Movie-Analysis_Azure-Services/blob/main/images/sql_query_run_3.png)
